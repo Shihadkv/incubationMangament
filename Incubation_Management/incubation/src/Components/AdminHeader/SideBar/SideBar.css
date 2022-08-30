@@ -1,0 +1,17 @@
+.sidebar{
+    background-color: #1976d2;
+    color: white;
+    width: 14%;
+    height: 100vh;
+}
+.sidebartext{
+    padding: 7%;
+}
+@media(max-width:750px){
+    .sidebar{
+        width: 12%;
+    }
+    .sidebartext{
+        display: none;
+    }
+}

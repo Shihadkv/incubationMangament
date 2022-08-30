@@ -1,0 +1,42 @@
+.slot {
+    /* height: 30px; */
+    /* width: 30px; */
+    /* padding: 3rem; */
+    /* background-color: bisque; */
+    overflow-x: unset;
+    max-width: 100%;
+    margin: 5px;
+    padding: 3rem;
+}
+
+.sectionA {
+
+    /* margin: auto; */
+    justify-content: space-between;
+    width: auto;
+    /* border: 5px solid #FFFF00; */
+    /* padding: 10px; */
+    overflow-x: scroll;
+    
+
+}
+
+.sectionA::-webkit-scrollbar{
+    display: none;
+}
+
+.section{
+    max-width: 20%;
+     height: 100vh;
+    margin: auto;
+}
+
+.subSlot{
+    /* width: 40px;
+    height: 40px; */
+    padding: 3rem;
+    background-color: bisque;
+    margin: 1rem;
+
+
+}

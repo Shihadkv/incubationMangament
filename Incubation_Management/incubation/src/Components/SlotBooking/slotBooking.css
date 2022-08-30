@@ -1,0 +1,43 @@
+
+.slot {
+    /* height: 30px; */
+    /* width: 30px; */
+    /* padding: 3rem; */
+    /* background-color: bisque; */
+    overflow-x: unset;
+    max-width: 100%;
+    margin: 1rem;
+    padding: 2rem;
+}
+
+.sectionA {
+
+    /* margin: auto; */
+    justify-content: space-between;
+    width: auto;
+    /* border: 5px solid #FFFF00; */
+    /* padding: 10px; */
+    overflow-x: scroll;
+    
+
+}
+
+.sectionA::-webkit-scrollbar{
+    display: none;
+}
+
+.section{
+    max-width: 20%;
+     height: 100vh;
+    margin: auto;
+}
+
+.subSlot{
+    /* width: 40px;
+    height: 40px; */
+    padding: 2rem;
+    background-color: rgb(83, 104, 142);
+    margin: 1rem;
+
+
+}
